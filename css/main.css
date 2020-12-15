@@ -1,8 +1,8 @@
-
-
-.center {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   width: 50%;
- }
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: baskerville-display-pt, serif;
+  background-color: #eaefec;
+}
