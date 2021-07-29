@@ -7,6 +7,11 @@
   margin: auto;
 }
 
+body {
+  background-color: #000000;
+  color: black;
+}
+
 
 /* Next & previous buttons */
 .prev, .next {
