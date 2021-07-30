@@ -41,7 +41,7 @@ body {
 
 .column {
   float:left;
-  flex: 25%;
+  flex: 50%;
 }
 
 .row {
