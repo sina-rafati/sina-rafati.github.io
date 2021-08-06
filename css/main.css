@@ -14,8 +14,9 @@ body {
 h1 {
  font-family: "SINA", sans-serif;
 }
+
 h1 {
- font-family: "PORTFOLIO", noteworthy;
+ font: "PORTFOLIO", noteworthy;
 }
 
 
