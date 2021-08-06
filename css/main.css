@@ -59,18 +59,7 @@ flex-wrap: wrap;
 padding: 0 8px;
 }
 
-.column2 {
-  float:right;
-}
 
-.row {
-display: flex;
-width: 90%;
-margin-right: : auto;
-margin-right: auto;
-flex-wrap: wrap;
-padding: 0 8px;
-}
 
 
 
