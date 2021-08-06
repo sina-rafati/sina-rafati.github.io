@@ -49,7 +49,7 @@ body {
   padding: 5px;
 }
 .column2 {
-  float:left;
+  float:right;
   flex: 50%;
   padding: 5px;
 }
