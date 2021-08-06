@@ -28,7 +28,11 @@ body {
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
+h1 {
 
+font-family: noteworthy;
+
+}
 /* Position the "next button" to the right */
 .next {
   right: 0;
