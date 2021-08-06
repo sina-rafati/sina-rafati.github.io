@@ -14,6 +14,10 @@ body {
 h1 {
  font-family: "SINA", sans-serif;
 }
+h1 {
+ font-family: "PORTFOLIO", noteworthy;
+}
+
 
 /* Next & previous buttons */
 .prev, .next {
