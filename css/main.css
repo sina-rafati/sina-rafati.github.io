@@ -44,8 +44,9 @@ body {
 }
 
 .column {
-  float: left;
-  width: 25%;
+  float:left;
+  flex: 50%;
+  padding: 5px;
 }
 
 
