@@ -15,10 +15,14 @@ body {
    font: "PORTFOLIO", noteworthy;
   }
 
-  div {
-    display:block;
-    float:left;
-} 
+  .row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 
 
 
