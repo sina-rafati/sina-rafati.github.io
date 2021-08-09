@@ -44,15 +44,17 @@ body {
 }
 
 .column {
-    float: left;
-    width: 50%;
-    }
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 
 
