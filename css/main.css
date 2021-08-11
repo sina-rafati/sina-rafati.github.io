@@ -22,14 +22,14 @@ body {
 /* Next & previous buttons */
 .column {
   float: left;
-  width: 50%;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
 }
 /* Position the "next button" to the right */
 .next {
