@@ -20,12 +20,16 @@ body {
 
 
 /* Next & previous buttons */
-.row {
-  display: flex;
+.column {
+  float: left;
+  width: 50%;
 }
 
-.column {
-  flex: 50%;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 /* Position the "next button" to the right */
 .next {
