@@ -56,6 +56,13 @@ body {
   top: 0;
 }
 
+}
+footer nav{
+  width: 740px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
