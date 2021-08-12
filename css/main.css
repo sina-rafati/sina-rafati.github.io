@@ -45,6 +45,11 @@ body {
   display: table;
 }
 
+}
+footer {
+  border-top: 1px solid white;
+  color: black;
+}
 
 
 /* Number text (1/3 etc) */
