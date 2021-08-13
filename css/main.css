@@ -51,13 +51,13 @@ body {
 .numbertext {
   color: #f2f2f2;
   font-size: 16px;
-  padding: 8px 12px;
+  padding: 4px 8px;
   position: absolute;
   top: 0;
 }
 
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 150px;
   width: 50px;
   text-align: center;
