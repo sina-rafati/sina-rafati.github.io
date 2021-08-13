@@ -71,17 +71,7 @@ body {
 
 /* Set a specific color for each brand */
 
-/* instagram */
-.fa-instagram {
-  background: #3B5998;
-  color: white;
-}
 
-/* linkedin */
-.fa-linkedin{
-  background: #55ACEE;
-  color: white;
-}
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
