@@ -20,7 +20,6 @@ body {
 
 
 .column {
-  margin: 10px 50px;
   float: left;
   width: 33.33%;
   padding: 5px;
@@ -28,6 +27,7 @@ body {
 
 /* Clear floats after image containers */
 .row::after {
+  margin:10px 50px;
   content: "";
   clear: both;
   display: table;
