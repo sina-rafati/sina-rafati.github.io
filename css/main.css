@@ -17,7 +17,7 @@ body {
 
 
 
-.column img{
+.column {
   margin: 10px 50px;
 }
 .column img {
@@ -31,18 +31,7 @@ body {
 }
 
 
-.row {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 
 
