@@ -17,21 +17,21 @@ body {
 
 
 
-.column {
+.row {
   margin: 10px 50px;
 }
-.column img {
+.row img {
   transition: 1s;
   padding: 15px;
   width: 200px
 }
-.column img:hover {
+.row img:hover {
      filter: grayscale(100%);
      transform: scale(1.1);
 }
 
 
-.column {
+.row {
   float: left;
   width: 33.33%;
   padding: 5px;
