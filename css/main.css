@@ -22,11 +22,12 @@ body {
 .column {
   float: left;
   width: 33.33%;
-  padding: 20px;
+  padding: 5px;
 }
 
 /* Clear floats after image containers */
 .row::after {
+  margin: 10px 50px;
   content: "";
   clear: both;
   display: table;
