@@ -27,7 +27,6 @@ body {
 
 /* Clear floats after image containers */
 .row::after {
-  margin:10px 50px;
   content: "";
   clear: both;
   display: table;
