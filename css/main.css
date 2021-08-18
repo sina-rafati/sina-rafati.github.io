@@ -20,18 +20,18 @@ body {
 .column {
   margin: 10px 50px;
 }
-.img {
+.column {
   transition: 1s;
   padding: 15px;
   width: 200px
 }
-.img:hover {
+.column:hover {
      filter: grayscale(100%);
      transform: scale(1.1);
 }
 
 
-.column {
+.row {
   float: left;
   width: 33.33%;
   padding: 5px;
