@@ -17,15 +17,15 @@ body {
 
 
 
-.gallery {
+.WORKS {
   margin: 10px 50px;
 }
-.gallery img {
+.works img {
   transition: 1s;
   padding: 15px;
   width: 200px
 }
-.gallery img:hover {
+.works img:hover {
      filter: grayscale(100%);
      transform: scale(1.1);
 }
