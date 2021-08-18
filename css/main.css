@@ -21,12 +21,12 @@ body {
   margin: 10px 50px;
 }
 
-.galleryimg {
+.gallery img {
   transition: 1s;
   padding: 15px;
   width: 200px
 }
-.galleryimg:hover {
+.gallery img:hover {
      filter: grayscale(100%);
      transform: scale(1.1);
 }
