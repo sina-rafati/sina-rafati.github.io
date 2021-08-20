@@ -15,7 +15,7 @@ body {
    font: "PORTFOLIO", noteworthy;
   }
 
-  .container {
+  .column {
       position: relative;
   }
 
@@ -39,11 +39,11 @@ body {
     text-align: center;
   }
 
-  .container:hover .img {
+  .column:hover .img {
     opacity: 0.3;
   }
 
-  .container:hover .middle {
+  .column:hover .middle {
     opacity: 1;
   }
 
