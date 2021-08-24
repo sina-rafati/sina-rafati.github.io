@@ -16,7 +16,7 @@ body {
   }
 
 
-  .column {
+  .container {
       position: relative;
   }
 
@@ -40,11 +40,11 @@ body {
     text-align: center;
   }
 
-  .column:hover .img {
+  .container:hover .img {
     opacity: 0.3;
   }
 
-  .column:hover .middle {
+  .container:hover .middle {
     opacity: 1;
   }
 
