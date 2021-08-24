@@ -15,6 +15,20 @@ body {
    font: "PORTFOLIO", noteworthy;
   }
 
+  <style>
+  .column{
+    width:90%;
+    padding:20px;
+    margin: 100px auto;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+
+
+  }
+
   .column {
       position: relative;
   }
